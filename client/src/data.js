@@ -24,19 +24,19 @@ export const SliderItems = [
 export const categories = [
     {
       id: 1,
-      img: "https://images.pexels.com/photos/5886041/pexels-photo-5886041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      img: "https://images.unsplash.com/photo-1521335629791-ce4aec67ddaf?auto=format&fit=crop&w=1200&q=80",
       title: "SHIRT STYLE!",
       cat:"women"
     },
     {
       id: 2,
-      img: "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      img: "https://images.unsplash.com/photo-1523381214305-79448d4ae3ea?auto=format&fit=crop&w=1200&q=80",
       title: "LOUNGEWEAR LOVE",
       cat:"jeans"
     },
     {
       id: 3,
-      img: "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      img: "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=1200&q=80",
       title: "LIGHT JACKETS",
       cat:"jacket"
 
@@ -47,6 +47,7 @@ export const categories = [
   export const popularProducts = [
     {
       id:1,
+
       img:"https://source.unsplash.com/featured/?t-shirt",
     },
     {
